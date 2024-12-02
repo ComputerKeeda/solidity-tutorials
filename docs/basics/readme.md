@@ -102,3 +102,5 @@ function add(uint256 a, uint256 b) public view returns (uint256) {
 - **State Modifier**: Indicates if the function modifies the blockchain state (`view`, `pure`, etc.).
 - **Return Type**: Specifies the type of value returned by the function.
 
+> [!NOTE]
+> We will learn more about functions in [functions-visibility.md](./functions-visibility.md)
