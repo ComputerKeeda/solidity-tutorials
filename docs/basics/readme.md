@@ -111,3 +111,4 @@ function add(uint256 a, uint256 b) public view returns (uint256) {
 So far we have learned about solidity functions and how to create them. Now let's move on to the next step, 
 
 - [**Mapping**](./mapping.md)
+- [**Arrays**](./arrays.md)
