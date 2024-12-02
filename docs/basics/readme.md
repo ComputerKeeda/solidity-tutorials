@@ -104,3 +104,10 @@ function add(uint256 a, uint256 b) public view returns (uint256) {
 
 > [!NOTE]
 > We will learn more about functions in [functions-visibility.md](./functions-visibility.md)
+
+
+# Pipeline
+
+So far we have learned about solidity functions and how to create them. Now let's move on to the next step, 
+
+- [**Mapping**](./mapping.md)
