@@ -38,7 +38,7 @@ contract Twitter {
     function unlikeTweet(address author, uint256 id) external{
         require(tweetsByUser[author][id].id == id, "Tweet does not exist");
         require(tweetsByUser[author][id].likes > 0, "Sorry that's not possible");
-        tweetsByUser[author][id].likes--
+        tweetsByUser[author][id].likes--;
     }
 
     function getTweets() public view returns (Tweet[] memory) {
