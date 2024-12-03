@@ -3,7 +3,7 @@
 > [!NOTE]
 > **This is a work in progress.**
 
-## Table of Contents:
+## Table of Contents
 
 - [Require](./require.md)
 - [Modifiers](./modifiers.md)

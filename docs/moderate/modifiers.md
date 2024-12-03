@@ -9,7 +9,7 @@ A **modifier** is a function-like construct in Solidity that is executed before 
 > **Definition**:  
 > A modifier is a piece of logic that can be applied to a function to enhance or restrict its behavior.
 
-### **Analogy**:
+### **Analogy**
 
 Think of a **modifier** like building blocks in Minecraft:
 
@@ -43,7 +43,7 @@ contract MyContract {
 }
 ```
 
-### **Explanation**:
+### **Explanation**
 
 1. **`onlyOwner` Modifier**:
 
@@ -83,6 +83,7 @@ modifier ModifierName() {
 
    - Prevent certain operations when the contract is paused.
    - Example:
+
      ```solidity
      modifier whenNotPaused() {
          require(!paused, "Contract is paused");
@@ -130,7 +131,7 @@ contract Pausable {
 }
 ```
 
-### **How It Works**:
+### **How It Works**
 
 1. **Pause/Unpause Logic**:
    - Only the owner can pause or unpause the contract.

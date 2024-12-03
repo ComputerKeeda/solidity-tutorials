@@ -4,7 +4,7 @@ To learn Solidity, it's important to start with the basics. Let's begin with a s
 
 ---
 
-### **Calculator.sol**
+## **Calculator.sol**
 
 ```solidity
 // SPDX-License-Identifier: MIT
@@ -85,7 +85,7 @@ function add(uint256 a, uint256 b) public view returns (uint256) {
 }
 ```
 
-#### Explanation:
+#### Explanation
 
 - **`add`**: The name of the function.
 - **`uint256 a, uint256 b`**: Parameters passed to the function.
@@ -105,10 +105,9 @@ function add(uint256 a, uint256 b) public view returns (uint256) {
 > [!NOTE]
 > We will learn more about functions in [functions-visibility.md](./functions-visibility.md)
 
+## Pipeline
 
-# Pipeline
-
-So far we have learned about solidity functions and how to create them. Now let's move on to the next step, 
+So far we have learned about solidity functions and how to create them. Now let's move on to the next step,
 
 - [**Mapping**](./mapping.md)
 - [**Arrays**](./arrays.md)
