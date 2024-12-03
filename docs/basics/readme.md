@@ -113,3 +113,5 @@ So far we have learned about solidity functions and how to create them. Now let'
 - [**Mapping**](./mapping.md)
 - [**Arrays**](./arrays.md)
 - [**Structs**](./structs.md)
+
+Now rest of the things you will learn in moderate level. which you can find in [moderate](../moderate/readme.md)
