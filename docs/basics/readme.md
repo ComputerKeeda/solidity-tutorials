@@ -112,3 +112,4 @@ So far we have learned about solidity functions and how to create them. Now let'
 
 - [**Mapping**](./mapping.md)
 - [**Arrays**](./arrays.md)
+- [**Structs**](./structs.md)
