@@ -141,3 +141,5 @@ contract Pausable {
 ---
 
 Modifiers make your contracts modular, reusable, and easier to read. You can look at [Pauseable-Token.sol](../../contracts/Pauseable-Token.sol) to understand how modifiers are used in real world applications 🚀.
+
+Another example of modifiers in real world applications is [Twitter-Max-Tweets_Length-Modifier.sol](../../contracts/Twitter-Max-Tweets_Length-Modifier.sol).
