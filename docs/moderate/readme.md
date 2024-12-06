@@ -9,3 +9,4 @@
 - [Modifiers](./modifiers.md)
 - [Events](./events.md)
 - [Loops](./loops.md)
+- [Inheritance](./inheritance.md)
